@@ -1,9 +1,8 @@
 # Tipo de usuario
-- [ ] Alfa
-- [ ] Bravo 
-- [ ] Charlie
-- [ ] Delta
-- [ ] Echo
+- [ ] Alfa / Gustavo
+- [ ] Bravo / Andrés
+- [ ] Charlie / Edwuard
+- [ ] Delta / Alona
 
 # Seleccione el tipo de actividad
 - [ ] Feature
